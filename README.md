@@ -42,5 +42,7 @@ I tried cv2.fitLine() for making my line of best fit but it did not generate a c
 
 
 # What libraries are used
-OpenCV (cv2) -- To process images, detecting HSV values from the cones, contour detection, and drawing the path lines
-NumPy (numpy) -- To use arrays/change them and for polynomial regression line
+
+**OpenCV (cv2)** -- To process images, detecting HSV values from the cones, contour detection, and drawing the path lines
+
+**NumPy (numpy)** -- To use arrays/change them and for polynomial regression line
